@@ -1,3 +1,5 @@
+// animates language icons
+
 $(document).ready(function(){
 	$(".languages").hover(function(){
         $(this).animate({
